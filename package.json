@@ -25,7 +25,7 @@
     "grunt-contrib-less": "0.11.4",
     "grunt-npm": "0.0.2",
     "lodash": "2.4.1",
-    "minimatch": "1.0.0",
+    "minimatch": "3.0.5",
     "path": "0.4.9",
     "qs": "1.2.2",
     "unifile": "0.0.46",
